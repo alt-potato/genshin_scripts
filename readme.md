@@ -1,3 +1,6 @@
 # Let's Pretend I Know What I'm Doing
---- 
-lol
+This application is l y r e
+
+goo
+d
+
