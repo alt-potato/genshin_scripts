@@ -1,10 +1,3 @@
-is this like markdown or something
-how does this work
-
-*italic i think*
-**bold**
-___both lol___
-~~yee~~
-
+# Let's Pretend I Know What I'm Doing
 --- 
 lol
