@@ -1,5 +1,10 @@
+is this like markdown or something
+how does this work
 
-does this w
-ork
+*italic i think*
+**bold**
+___both lol___
+~~yee~~
 
-how do you make a line break 
+--- 
+lol
